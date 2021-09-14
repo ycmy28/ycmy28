@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ycmy28
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Maschine Learning
+- 🌱 I’m currently learning Maschine Learning and Deep learning
 - 💞️ I’m looking to collaborate on anything related data
 - 📫 How to reach me ycmy28@gmail.com
 
